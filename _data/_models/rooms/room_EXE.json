@@ -1,0 +1,60 @@
+{
+  "name_localized": {
+    "en": "Executive Suite "
+  },
+  "short_description_localized": {
+    "en": "500 Sq Ft. Rooms are well equipped with all modern amenities."
+  },
+  "description_localized": {
+    "en": ""
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "IPOD STATION"
+      }
+    ]
+  },
+  "images": [
+    {
+      "name": "Executive Suite  ",
+      "file_name": "Executive Suite  ",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130418/14986_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-12-130418",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 33297,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130418/large_14986_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130418/medium_14986_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130418/small_14986_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130418/xsmall_14986_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130418/thumb_14986_1_yankee_large.jpg",
+      "caption": "",
+      "alt": ""
+    },
+    {
+      "name": "Executive Suite  ",
+      "file_name": "Executive Suite  ",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130421/14987_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-12-130421",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 38960,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130421/large_14987_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130421/medium_14987_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130421/small_14987_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130421/xsmall_14987_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130421/thumb_14987_1_yankee_large.jpg",
+      "caption": "",
+      "alt": ""
+    }
+  ],
+  "reztrip_room_id": "EXE",
+  "order": 2
+}
