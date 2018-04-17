@@ -1,3 +1,7 @@
 ---
 - a/: abc
 - A/: b
+- a: abc
+- a/: abc
+- A: abc
+- A/: abc
