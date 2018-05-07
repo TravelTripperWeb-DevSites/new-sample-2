@@ -1,4 +1,7 @@
 {
+  "name": {
+    "localizable": false
+  },
   "date": {
     "type": "date"
   },
