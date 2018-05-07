@@ -1,6 +1,6 @@
 {
   "name": {
-    "localizable": false
+    "localizable": true
   },
   "date": {
     "type": "date"
