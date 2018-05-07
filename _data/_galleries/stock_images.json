@@ -183,6 +183,25 @@
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-05-07-132621/thumb_Celino_Fence2.jpg",
       "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-05-07-132621/Celino_Fence2.jpg",
       "alt": "Celino_Fence2"
+    },
+    {
+      "name": "img well",
+      "file_name": "img well.jpg",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-05-07-134416/img_well.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-05-07-134416",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 214790,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-05-07-134416/large_img_well.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-05-07-134416/medium_img_well.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-05-07-134416/small_img_well.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-05-07-134416/xsmall_img_well.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-05-07-134416/thumb_img_well.jpg",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-05-07-134416/img_well.jpg",
+      "alt": "img well"
     }
   ],
   "description": ""
