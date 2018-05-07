@@ -1,0 +1,30 @@
+{
+  "images": [
+    {
+      "name": "Restaurant",
+      "file_name": "Restaurant.pdf",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-05-07-125627/Restaurant.pdf",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-05-07-125627",
+      "file_size": 9205919,
+      "file_type": "application/pdf",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-05-07-125627/Restaurant.pdf",
+      "alt": "Restaurant",
+      "caption": ""
+    },
+    {
+      "name": "Terminix-Feb",
+      "file_name": "Terminix-Feb.pdf",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-05-07-125656/Terminix-Feb.pdf",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-05-07-125656",
+      "file_size": 1134990,
+      "file_type": "application/pdf",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-05-07-125656/Terminix-Feb.pdf",
+      "alt": "Terminix-Feb",
+      "caption": ""
+    }
+  ]
+}
