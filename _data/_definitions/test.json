@@ -1,4 +1,7 @@
 {
+  "date": {
+    "type": "date"
+  },
   "images": {
     "type": "image",
     "multiple": true
