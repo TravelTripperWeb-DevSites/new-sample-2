@@ -1,0 +1,151 @@
+{
+  "single_place": {
+    "name": "Venice",
+    "address": "Venice, FL, USA",
+    "place_id": "ChIJ-y0LMEhOw4gRYrPWNiKIrFI",
+    "reference": "CmRbAAAAU6iZDNwKKOBiDN_u47jDQxLoF82V5hhH1vvc0d3ub4THY5Xu9-80IMQuuxlDD0uwqEwUeuHtjUImt0Xrh4iTr8LL7reWLjuv1INdT18E4j6BAJINY0X3X1PBmRfCgSnQEhDRtFcp5kcbfhlxbHHUP49WGhR6Rzd7xj1DdNJT5USebTUG4rrn-A",
+    "latitude": 27.09977749999999,
+    "longitude": -82.45426320000001,
+    "google_place": {
+      "address_components": [
+        {
+          "long_name": "Venice",
+          "short_name": "Venice",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sarasota County",
+          "short_name": "Sarasota County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Florida",
+          "short_name": "FL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"locality\">Venice</span>, <span class=\"region\">FL</span>, <span class=\"country-name\">USA</span>",
+      "formatted_address": "Venice, FL, USA",
+      "geometry": {
+        "location": {
+          "lat": 27.09977749999999,
+          "lng": -82.45426320000001
+        },
+        "viewport": {
+          "south": 27.060677,
+          "west": -82.46991000000003,
+          "north": 27.1690151,
+          "east": -82.35953689999997
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id": "42cd0e517e68e59ce7253bb55ddbdab9f444c004",
+      "name": "Venice",
+      "photos": [
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109526845189040151573/photos\">Regina Sokolinski</a>"
+          ],
+          "width": 4032
+        },
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109583289298215875512/photos\">James S</a>"
+          ],
+          "width": 4096
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103867528303864799682/photos\">debi yorke</a>"
+          ],
+          "width": 5312
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107925177109983720704/photos\">Nick Stonge</a>"
+          ],
+          "width": 1920
+        },
+        {
+          "height": 2952,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117878156760359637463/photos\">Cyndy Pressler</a>"
+          ],
+          "width": 5248
+        },
+        {
+          "height": 2920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117259263273308562322/photos\">Jeffrey Scott Zipay</a>"
+          ],
+          "width": 4380
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117395899682056439967/photos\">Greg Hammack</a>"
+          ],
+          "width": 3968
+        },
+        {
+          "height": 2806,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117815279588142467658/photos\">prairieskycam</a>"
+          ],
+          "width": 3742
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100276615499545574722/photos\">Elena Olund</a>"
+          ],
+          "width": 3264
+        },
+        {
+          "height": 1944,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106420097294361862302/photos\">Carol Peterson</a>"
+          ],
+          "width": 2592
+        }
+      ],
+      "place_id": "ChIJ-y0LMEhOw4gRYrPWNiKIrFI",
+      "reference": "CmRbAAAAU6iZDNwKKOBiDN_u47jDQxLoF82V5hhH1vvc0d3ub4THY5Xu9-80IMQuuxlDD0uwqEwUeuHtjUImt0Xrh4iTr8LL7reWLjuv1INdT18E4j6BAJINY0X3X1PBmRfCgSnQEhDRtFcp5kcbfhlxbHHUP49WGhR6Rzd7xj1DdNJT5USebTUG4rrn-A",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "url": "https://maps.google.com/?q=Venice,+FL,+USA&ftid=0x88c34e48300b2dfb:0x52ac882236d6b362",
+      "utc_offset": -240,
+      "vicinity": "Venice",
+      "html_attributions": null
+    }
+  },
+  "places": [
+    "ikaros balti",
+    "Boston, MA",
+    "Baltimore ,"
+  ]
+}
