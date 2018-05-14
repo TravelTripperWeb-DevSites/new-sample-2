@@ -9,5 +9,8 @@
     "type": "image",
     "multiple": false,
     "required": true
+  },
+  "place": {
+    "type": "location" 
   }
 }
