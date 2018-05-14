@@ -8,9 +8,12 @@
   "images": {
     "type": "image",
     "multiple": false,
-    "required": true
+    "required": false
   },
-  "place": {
+  "single_place": {
+    "type": "location" 
+  },
+  "places": {
     "type": "location",
     "multiple": true
   }
