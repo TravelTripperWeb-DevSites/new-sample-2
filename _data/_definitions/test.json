@@ -2,6 +2,9 @@
   "name": {
     "localizable": true
   },
+  "color": {
+    "type": "color"
+  },
   "date": {
     "type": "date"
   },
