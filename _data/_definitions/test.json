@@ -7,7 +7,7 @@
   },
   "multi-color": {
     "type": "color",
-    "multiple": true,
+    "multiple": true
   },
   "date": {
     "type": "date"
