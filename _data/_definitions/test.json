@@ -2,6 +2,10 @@
   "name": {
     "localizable": true
   },
+  "gallery": {
+    "label": "Pick a Gallery",
+    "type": "gallery"
+  },
   "color": {
     "type": "color"
   },
