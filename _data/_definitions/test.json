@@ -8,7 +8,7 @@
   "multi-color": {
     "type": "color",
     "multiple": true,
-  }
+  },
   "date": {
     "type": "date"
   },
