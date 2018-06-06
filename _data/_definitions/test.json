@@ -5,8 +5,15 @@
   "color": {
     "type": "color"
   },
+  "multi-color": {
+    "type": "color",
+    "multiple": true,
+  }
   "date": {
     "type": "date"
+  },
+  "multi-string": {
+    "multiple": true
   },
   "images": {
     "type": "image",
