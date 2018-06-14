@@ -8,5 +8,291 @@
   "multi-color": [
     "#ce4444",
     "#13e609"
+  ],
+  "places": [
+    {
+      "name": "Boston",
+      "address": "Boston, MA, USA",
+      "place_id": "ChIJGzE9DS1l44kRoOhiASS_fHg",
+      "reference": "CmRbAAAAB6DEWeGccPCIMQfEJ-AqezWCffK92OhOa8LOadS2_ur3-B0aLxLJAud0Oy7tdKay3qMkP1cTWRUyVjsLGfO3jkudSkxH-vLgDtSUP2OndzybYLlNftU_uPhqFScdcFrPEhAbWtAQip73fpg21XZBFd0WGhQsRdAq91-wT-MIY2yECdiBT2CO3g",
+      "latitude": 42.3600825,
+      "longitude": -71.05888010000001,
+      "google_place": {
+        "address_components": [
+          {
+            "long_name": "Boston",
+            "short_name": "Boston",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Suffolk County",
+            "short_name": "Suffolk County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Massachusetts",
+            "short_name": "MA",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "adr_address": "<span class=\"locality\">Boston</span>, <span class=\"region\">MA</span>, <span class=\"country-name\">USA</span>",
+        "formatted_address": "Boston, MA, USA",
+        "geometry": {
+          "location": {
+          },
+          "viewport": {
+            "f": {
+              "b": 42.22788,
+              "f": 42.40081989999999
+            },
+            "b": {
+              "b": -71.19111299999997,
+              "f": -70.74945500000001
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+        "id": "06755c25d2b34d13942a4713971756a55b870ced",
+        "name": "Boston",
+        "photos": [
+          {
+            "height": 1936,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112651529686119378168/photos\">Valéria</a>"
+            ],
+            "width": 2592
+          },
+          {
+            "height": 3238,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103342336660549318647/photos\">J. Fauri</a>"
+            ],
+            "width": 3101
+          },
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117655973941595201062/photos\">Ferenc Tanai</a>"
+            ],
+            "width": 4512
+          },
+          {
+            "height": 1066,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105790544226377990329/photos\">Gennady Landa</a>"
+            ],
+            "width": 1600
+          },
+          {
+            "height": 540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105229298724268527152/photos\">Robert Strunck</a>"
+            ],
+            "width": 960
+          },
+          {
+            "height": 1728,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118077105270036617608/photos\">Ctibor Hlavina</a>"
+            ],
+            "width": 3072
+          },
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106865232575699241722/photos\">Andre Christoph</a>"
+            ],
+            "width": 5312
+          },
+          {
+            "height": 540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105229298724268527152/photos\">Robert Strunck</a>"
+            ],
+            "width": 960
+          },
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100931633838219958871/photos\">Mihaela Grigore</a>"
+            ],
+            "width": 5312
+          },
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111527860812427345458/photos\">charlie lindberg</a>"
+            ],
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJGzE9DS1l44kRoOhiASS_fHg",
+        "reference": "CmRbAAAAB6DEWeGccPCIMQfEJ-AqezWCffK92OhOa8LOadS2_ur3-B0aLxLJAud0Oy7tdKay3qMkP1cTWRUyVjsLGfO3jkudSkxH-vLgDtSUP2OndzybYLlNftU_uPhqFScdcFrPEhAbWtAQip73fpg21XZBFd0WGhQsRdAq91-wT-MIY2yECdiBT2CO3g",
+        "scope": "GOOGLE",
+        "types": [
+          "locality",
+          "political"
+        ],
+        "url": "https://maps.google.com/?q=Boston,+MA,+USA&ftid=0x89e3652d0d3d311b:0x787cbf240162e8a0",
+        "utc_offset": -240,
+        "vicinity": "Boston",
+        "html_attributions": null
+      }
+    },
+    {
+      "name": "New York",
+      "address": "New York, NY, USA",
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "CmRbAAAApAekuHpMontjzHeNBB7nVrYDZFZ-BoxEKGpx05gubhKe1HbgN9pPg2Iq_yvNvFfqKdVSSTsK83GcY_Hi3qNp4U3VxumnLHjE8B-ZtbGmh1zmzSDRDswsKUo8ml9P01nkEhAhQXVZ68pyFCMTvXVYQrD-GhRD2lLWmkDpgRWmtFscm5dnOL5KEw",
+      "latitude": 40.7127753,
+      "longitude": -74.0059728,
+      "google_place": {
+        "address_components": [
+          {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span>, <span class=\"country-name\">USA</span>",
+        "formatted_address": "New York, NY, USA",
+        "geometry": {
+          "location": {
+          },
+          "viewport": {
+            "f": {
+              "b": 40.4773991,
+              "f": 40.9175771
+            },
+            "b": {
+              "b": -74.25908989999999,
+              "f": -73.7002721
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+        "id": "7eae6a016a9c6f58e2044573fb8f14227b6e1f96",
+        "name": "New York",
+        "photos": [
+          {
+            "height": 401,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109211857686808261282/photos\">Вячеслав Сысоев</a>"
+            ],
+            "width": 604
+          },
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112714959103005771392/photos\">jr rodriguez moreno</a>"
+            ],
+            "width": 2048
+          },
+          {
+            "height": 2825,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105473471027855654879/photos\">Dobre TV</a>"
+            ],
+            "width": 4758
+          },
+          {
+            "height": 2864,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116522566196014882453/photos\">Rade Spasovski</a>"
+            ],
+            "width": 4096
+          },
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115306491091237167643/photos\">Sethunath V</a>"
+            ],
+            "width": 960
+          },
+          {
+            "height": 2592,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102324209078952545904/photos\">Richard Schneider</a>"
+            ],
+            "width": 3888
+          },
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112013027724003686126/photos\">Tzachi Cohen</a>"
+            ],
+            "width": 1084
+          },
+          {
+            "height": 640,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104848646960119330191/photos\">Fenix</a>"
+            ],
+            "width": 1137
+          },
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108137452504235376202/photos\">Kusal Epa</a>"
+            ],
+            "width": 3696
+          },
+          {
+            "height": 1152,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112714959103005771392/photos\">jr rodriguez moreno</a>"
+            ],
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+        "reference": "CmRbAAAApAekuHpMontjzHeNBB7nVrYDZFZ-BoxEKGpx05gubhKe1HbgN9pPg2Iq_yvNvFfqKdVSSTsK83GcY_Hi3qNp4U3VxumnLHjE8B-ZtbGmh1zmzSDRDswsKUo8ml9P01nkEhAhQXVZ68pyFCMTvXVYQrD-GhRD2lLWmkDpgRWmtFscm5dnOL5KEw",
+        "scope": "GOOGLE",
+        "types": [
+          "locality",
+          "political"
+        ],
+        "url": "https://maps.google.com/?q=New+York,+NY,+USA&ftid=0x89c24fa5d33f083b:0xc80b8f06e177fe62",
+        "utc_offset": -240,
+        "vicinity": "New York",
+        "html_attributions": null
+      }
+    }
   ]
 }
