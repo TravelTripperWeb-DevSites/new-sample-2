@@ -2,3 +2,9 @@
 - a/: abcdef
 - A: abc
 - A/: abc
+- test: ''
+- test/: ''
+- Test: ''
+- Test/: ''
+- TEST: ''
+- TEST/: ''
