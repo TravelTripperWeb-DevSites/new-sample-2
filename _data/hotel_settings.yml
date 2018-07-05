@@ -1,0 +1,44 @@
+---
+latitude: '52.070375'
+longitude: "-9.574189"
+map_zoom: 12
+name: Demo Hotel!
+email: support@traveltripper.com
+phone_number: 123-123-1234
+address:
+  street1: Lexington Ave
+  state: NY
+  city: New York
+  zip_code: 
+_hotel_id: SNBOX
+_portal_id: sandbox
+_root_path: https://rt3api-prd.ttaws.com
+_ttweb_plugins_version: v2
+default_currency: USD
+default_timezone: America/New_York
+__EDITABLE_FIELDS__:
+  name:
+    required: true
+  email:
+    type: string
+  phone:
+    type: string
+  default_currency:
+    required: true
+  address:
+    type: complex
+    fields:
+      street1:
+        type: string
+      state:
+        type: string
+      city:
+        type: string
+      zip_code:
+        type: string
+  map_zoom:
+    type: integer
+    latitude:
+      type: float
+    longitude:
+      type: float
