@@ -19,10 +19,21 @@
   "multi-string": {
     "multiple": true
   },
+  "single_image": {
+    "label": "Single Image",
+    "type": "image",
+    "hint": "Image Hint",
+    "instructions": "Image Instructions"
+  },
   "images": {
     "type": "image",
-    "multiple": false,
+    "multiple": true,
     "required": false
+  },
+  "amenity_picker": {
+    "type": "model",
+    "model": "amenities",
+    "field_name": "name"
   },
   "single_place": {
     "type": "location" 
