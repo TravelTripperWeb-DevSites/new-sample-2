@@ -1,6 +1,6 @@
 {
   "name_localized": {
-    "en": "AAA Rate"
+    "en": "AAA Rate!"
   },
   "url_friendly_name_localized": {
     "en": "aaa-special"
@@ -33,6 +33,5 @@
     "caption": ""
   },
   "reztrip_offer_id": "AAA",
-  "order": 1,
-  "id": ""
+  "order": 1
 }
