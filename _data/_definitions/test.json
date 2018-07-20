@@ -30,10 +30,10 @@
     "multiple": true,
     "required": false
   },
-  "amenity_picker": {
+  "post_picker": {
     "type": "model",
-    "model_name": "amenities",
-    "display_field": "name"
+    "model_name": "posts",
+    "display_field": "title"
   },
   "single_place": {
     "type": "location" 
