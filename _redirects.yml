@@ -1,6 +1,4 @@
 ---
-- a/: abcdef
-- A: abc
 - A/: abc
 - test: ''
 - test/: ''
