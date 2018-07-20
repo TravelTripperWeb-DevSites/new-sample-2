@@ -32,8 +32,8 @@
   },
   "amenity_picker": {
     "type": "model",
-    "model": "amenities",
-    "field_name": "name"
+    "model_name": "amenities",
+    "display_field": "name"
   },
   "single_place": {
     "type": "location" 
