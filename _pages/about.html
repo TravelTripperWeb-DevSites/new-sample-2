@@ -8,6 +8,11 @@ meta_tags:
 ---
 {% region region_name %}
 
+{% for post in site.data._models.posts %}
+<div data-live-edit-model='posts'
+     data-live-edit-model-instance='{{post.id}}.json'>{{post.title}}</div>
+{% endfor %}
+
 {% comment %}
 
   Name:
