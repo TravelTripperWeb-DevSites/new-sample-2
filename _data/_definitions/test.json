@@ -1,0 +1,45 @@
+{
+  "name": {
+    "localizable": true
+  },
+  "gallery": {
+    "label": "Pick a Gallery",
+    "type": "gallery"
+  },
+  "color": {
+    "type": "color"
+  },
+  "multi-color": {
+    "type": "color",
+    "multiple": true
+  },
+  "date": {
+    "type": "date"
+  },
+  "multi-string": {
+    "multiple": true
+  },
+  "single_image": {
+    "label": "Single Image",
+    "type": "image",
+    "hint": "Image Hint",
+    "instructions": "Image Instructions"
+  },
+  "images": {
+    "type": "image",
+    "multiple": true,
+    "required": false
+  },
+  "amenity_picker": {
+    "type": "model",
+    "model": "amenities",
+    "field_name": "name"
+  },
+  "single_place": {
+    "type": "location" 
+  },
+  "places": {
+    "type": "location",
+    "multiple": true
+  }
+}

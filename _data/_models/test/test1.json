@@ -1,0 +1,31 @@
+{
+  "images": [
+    {
+      "name": "Celino_Fence2",
+      "file_name": "Celino_Fence2.jpg",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-05-07-133858/Celino_Fence2.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-05-07-133858",
+      "file_type": "image/jpeg",
+      "width": 1448,
+      "height": 701,
+      "file_size": 140574,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-05-07-133858/large_Celino_Fence2.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-05-07-133858/medium_Celino_Fence2.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-05-07-133858/small_Celino_Fence2.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-05-07-133858/xsmall_Celino_Fence2.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-05-07-133858/thumb_Celino_Fence2.jpg",
+      "git_file_name": "_assets/image_data/Celino-Fence2.json",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-05-07-133858/Celino_Fence2.jpg",
+      "alt": "Celino_Fence2",
+      "caption": ""
+    }
+  ],
+  "date": "2018-05-09T04:00:00.000Z",
+  "name_localized": {
+    "en": "The First Test"
+  },
+  "gallery": "stock_images.json",
+  "id": ""
+}
