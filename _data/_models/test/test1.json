@@ -27,5 +27,8 @@
     "en": "The First Test"
   },
   "gallery": "stock_images.json",
-  "id": ""
+  "id": "",
+  "places": [
+    ""
+  ]
 }
