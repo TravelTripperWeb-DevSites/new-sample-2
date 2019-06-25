@@ -1,0 +1,58 @@
+{
+  "name_localized": {
+    "en": "Superior King Room"
+  },
+  "short_description_localized": {
+    "en": "300 Sq Ft. Rooms are well equipped with all modern amenities."
+  },
+  "description_localized": {
+    "en": ""
+  },
+  "amenities_localized": {
+    "en": [
+
+    ]
+  },
+  "images": [
+    {
+      "name": "Superior King Room ",
+      "file_name": "Superior King Room ",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130425/18071_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-12-130425",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 55084,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130425/large_18071_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130425/medium_18071_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130425/small_18071_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130425/xsmall_18071_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130425/thumb_18071_1_yankee_large.jpg",
+      "caption": "",
+      "alt": ""
+    },
+    {
+      "name": "Superior King Room ",
+      "file_name": "Superior King Room ",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130428/20005_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-12-130428",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 83659,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130428/large_20005_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130428/medium_20005_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130428/small_20005_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130428/xsmall_20005_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_160_868/media/2018-04-12-130428/thumb_20005_1_yankee_large.jpg",
+      "caption": "",
+      "alt": ""
+    }
+  ],
+  "reztrip_room_id": "KB",
+  "order": 3
+}

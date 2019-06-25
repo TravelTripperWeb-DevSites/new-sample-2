@@ -1,0 +1,21 @@
+{
+  "name_localized": {
+    "en": "Test"
+  },
+  "short_description_localized": {
+    "en": "Test"
+  },
+  "description_localized": {
+    "en": "Test"
+  },
+  "amenities_localized": {
+    "en": [
+
+    ]
+  },
+  "images": [
+
+  ],
+  "reztrip_room_id": "Test",
+  "order": 4
+}
